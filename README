@@ -1,0 +1,3 @@
+Because we are way past Y2K, into the future, and it's about time we stop using boring 80x25 and 16 colours terminals
+
+The programs or config files to be put here are tested as much as possible, which means "it works for me." Usually this means it works on a Linux machine, in a tmux session accessed from PuTTY. For configuring your terminals to display 256 colours, see the guides already available.
